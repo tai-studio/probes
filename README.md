@@ -1,0 +1,2 @@
++ ```thrgb2serial``` — an Arduino script to read and convert data from a temperature (analogue 10k NTC termistor)  and a humidity ([SEN-09569-HIH-4030](https://www.sparkfun.com/products/9569)) sensor, plus the [EZO-RGB](https://www.atlas-scientific.com/product_pages/probes/ezo-rgb.html) sensor, and 
++ ```serial2OSC``` — a command-line ruby tool to read data from a serial interface and forward it via OSC
